@@ -6,7 +6,7 @@ const Documents01 = ({ onScroll }) => {
     <div className="">
 
       <div className="container mx-auto py-20 ">
-        Moinul Hosai
+        <h1>Moinul Hosain</h1>
       </div>
 
 
